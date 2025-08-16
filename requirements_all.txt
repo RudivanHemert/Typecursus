@@ -1,0 +1,15 @@
+# Basis requirements voor alle platforms
+pygame==2.5.2
+pillow==10.0.1
+
+# Windows executable
+pyinstaller==6.1.0
+
+# Android APK
+kivy==2.2.1
+kivymd==1.1.1
+buildozer==1.5.0
+cython==0.29.33
+
+# Extra dependencies
+requests==2.31.0
